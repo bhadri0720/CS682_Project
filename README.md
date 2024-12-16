@@ -12,4 +12,5 @@ Competition Link: https://www.kaggle.com/competitions/covid-segmentation
 Team Members:
 
 Bhadri Prabhav Kuruganti
+
 Vamsi Rohit Tummalapalli
